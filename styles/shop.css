@@ -212,4 +212,23 @@ body {
 /* best delivary section styles */
 .best-delivary {
     display: flex;
+    padding: 0px 240px;
+    width: auto;
+    height: 700px;
+    align-items: center;
+    /* justify-content: space-around; */
+    background: rgba(229, 84, 115, 0.10);
+}
+
+.delivary-points {
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.best-delivary-img {
+    padding: 0px 0px 0px 60px;
+}
+
+.best-delivary-text {
+    padding: 48px 60px 100px 250px;
 }
