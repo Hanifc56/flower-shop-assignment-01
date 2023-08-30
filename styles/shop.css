@@ -108,7 +108,7 @@ body {
 }
 
 .img-div-1 {
-    margin: 117px 47px 51px 47px;
+    margin: 117px 47px 73px 47px;
 }
 
 .img-div-2 {
@@ -121,4 +121,29 @@ body {
     font-size: 24px;
     font-weight: 700;
     text-decoration-line: underline;
+
+}
+
+/* hot deals section styles */
+.hot-deals {
+    width: auto;
+    height: 620px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    text-align: center;
+    justify-content: center;
+    margin: 128px 0;
+    display: flex;
+}
+
+.spcial-text {
+    color: #E55473;
+}
+
+.hot-deals-text {
+    padding: 230px 215px 162px 420px;
+}
+
+.hot-deal-img {
+    padding: 100px 0px;
 }
