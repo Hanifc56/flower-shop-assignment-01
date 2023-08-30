@@ -67,3 +67,58 @@ body {
     text-align: center;
     margin: 175px 750px 0px;
 }
+
+.section-img {
+    display: flex;
+    margin: 0px 240px;
+    /* align-items: center;
+    justify-content: space-between; */
+}
+
+.pink-flower-tree {
+    width: 464px;
+    height: 538px;
+    border: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    margin: 50px 24px 32px 240px;
+
+}
+
+.blue-flower-tree {
+    width: 464px;
+    height: 538px;
+    border: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    margin: 50px 24px 32px 24px;
+}
+
+.green-flower-tree {
+    width: 464px;
+    height: 538px;
+    border: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    margin: 50px 240px 32px 24px;
+}
+
+.img-div {
+    margin: 110px 75px 0px 75px;
+}
+
+.img-div-1 {
+    margin: 117px 47px 51px 47px;
+}
+
+.img-div-2 {
+    margin: 67px 75px 0px;
+}
+
+.pink-flower-text {
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    text-decoration-line: underline;
+}
