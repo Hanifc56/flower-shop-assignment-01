@@ -147,3 +147,31 @@ body {
 .hot-deal-img {
     padding: 100px 0px;
 }
+
+/* Instagram section styles */
+.instagram-section-text {
+    text-align: center;
+}
+
+.instagram-img {
+    display: flex;
+    /* margin: 0px 240px; */
+    align-items: center;
+    justify-content: center;
+}
+
+.insta-img-1 {
+    margin: 48px 24px 128px 240px;
+}
+
+.insta-img-2 {
+    margin: 48px 24px 128px 0px;
+}
+
+.insta-img-3 {
+    margin: 48px 24px 128px 0px;
+}
+
+.insta-img-4 {
+    margin: 48px 240px 128px 0px;
+}
