@@ -3,7 +3,7 @@ body {
     font-family: 'Lato', sans-serif;
     font-family: 'Open Sans', sans-serif;
     font-family: 'Poppins', sans-serif;
-    /* margin: 0px; */
+    margin: 0px;
 }
 
 .btn-primary {
@@ -71,7 +71,7 @@ body {
 
 .section-img {
     display: flex;
-    padding: 0px 240px;
+    /* padding: 0px 240px; */
     align-items: center;
     justify-content: space-between;
 }
@@ -179,7 +179,7 @@ body {
 
 /* latest deals styles */
 .latest-deals {
-    margin: 0px 240px 128px 540px;
+    margin: 0px 240px 128px 220px;
     background-image: url('../images/Rectangle\ 9.png');
     background-repeat: no-repeat;
     /* background-size: cover; */
