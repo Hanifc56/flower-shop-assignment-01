@@ -71,7 +71,7 @@ body {
 
 .section-img {
     display: flex;
-    margin: 0px 240px;
+    padding: 0px 240px;
     align-items: center;
     justify-content: space-between;
 }
