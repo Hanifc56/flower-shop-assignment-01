@@ -18,6 +18,19 @@ body {
     font-weight: 700;
 }
 
+.section-title {
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.section-discription {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+}
+
 /* header section styles */
 .header {
     display: flex;
@@ -47,4 +60,10 @@ body {
 
 .header-left {
     padding: 100px 97px 150px 0px;
+}
+
+/* Our featur section styles */
+.section-text {
+    text-align: center;
+    margin: 175px 750px 0px;
 }
