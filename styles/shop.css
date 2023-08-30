@@ -208,3 +208,8 @@ body {
 .latest-deals-text>h3 {
     margin-bottom: 0px;
 }
+
+/* best delivary section styles */
+.best-delivary {
+    display: flex;
+}
