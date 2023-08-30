@@ -3,6 +3,7 @@ body {
     font-family: 'Lato', sans-serif;
     font-family: 'Open Sans', sans-serif;
     font-family: 'Poppins', sans-serif;
+    margin: 0px;
 }
 
 .btn-primary {
@@ -218,6 +219,7 @@ body {
     align-items: center;
     /* justify-content: space-around; */
     background: rgba(229, 84, 115, 0.10);
+    margin-bottom: 128px;
 }
 
 .delivary-points {
@@ -231,4 +233,47 @@ body {
 
 .best-delivary-text {
     padding: 48px 60px 100px 250px;
+}
+
+/* footer section styles */
+.footer-items {
+    width: auto;
+    height: 449px;
+    background: #111010;
+    text-align: center;
+
+}
+
+.footer-section-title {
+    color: #FFF;
+    font-size: 48px;
+    font-weight: 800;
+    margin: 0px;
+}
+
+.flower-text {
+    color: #E55473;
+    font-size: 48px;
+    ;
+    font-weight: 800;
+}
+
+.footer-section-discription {
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    margin: 24px 0px 32px 0px;
+}
+
+.copyright-text {
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.footer-text {
+    padding: 128px 0px 0px 0px;
+
 }
